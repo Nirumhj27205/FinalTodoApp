@@ -50,3 +50,21 @@ If the logout is clicked then the user is logged out.
 
  ## Gif images for the fully functioning Applications
 ![1234](https://user-images.githubusercontent.com/80841992/111608108-f8c57600-8800-11eb-9ab1-206bb5242b10.gif)
+
+# second component
+
+## Fragments
+![fragments](https://user-images.githubusercontent.com/80841992/113413609-c5770f80-93da-11eb-9fbc-d5d38710ae73.PNG)
+
+## Intent
+![intent](https://user-images.githubusercontent.com/80841992/113413679-ee97a000-93da-11eb-9dad-ff1d9ba50e2a.PNG)
+
+## Login Page
+![Screenshot_1617364740](https://user-images.githubusercontent.com/80841992/113413844-4e8e4680-93db-11eb-9280-43224523ac22.png)
+
+## Main homepage
+![mainpage](https://user-images.githubusercontent.com/80841992/113414162-10dded80-93dc-11eb-8095-92fcd9a0db71.PNG)
+
+
+
+
