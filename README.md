@@ -65,7 +65,8 @@ If the logout is clicked then the user is logged out.
 
 
 ## Main homepage
-![mainpage](https://user-images.githubusercontent.com/80841992/113414162-10dded80-93dc-11eb-8095-92fcd9a0db71.PNG)
+
+![main](https://user-images.githubusercontent.com/80841992/113418156-a5e4e480-93e4-11eb-894c-36733f38492e.gif)
 
 
 
